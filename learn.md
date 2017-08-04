@@ -1,7 +1,10 @@
 ## wildml
 
 [Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+
 [RNNs in Tensorflow, a Practical Guide and Undocumented Features](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/)
+
+[Deep Learning for Chatbots, Part 1 – Introduction](http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/)
 
 ## karpathy
 
